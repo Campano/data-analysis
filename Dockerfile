@@ -16,5 +16,5 @@ COPY --chown=1000:100 ./Notebook_Noe_Class.ipynb .
 COPY --chown=1000:100 ./Uber_Noe_Airports.ipynb .
 COPY --chown=1000:100 ./netflix_no_chill.ipynb .
 COPY --chown=1000:100 ./[optional]_Getaround.ipynb .
-COPY --chown=1000:100 ./[Livecode]_Airbnb New-York.ipynb .
+COPY --chown=1000:100 ./[Livecode]_Airbnb_New-York.ipynb .
 COPY --chown=1000:100 ./[optional]_Heetch.ipynb .
