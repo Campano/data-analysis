@@ -8,7 +8,7 @@ RUN rm -rf ./work
 RUN mkdir data
 COPY --chown=1000:100 data/uber_requests.csv data
 COPY --chown=1000:100 data/noe_airbnb_dataset.csv data
-COPY --chown=1000:100 data/uber_requests.csv data
+COPY --chown=1000:100 data/netflix_titles.csv data
 COPY --chown=1000:100 data/heetch.csv data
 COPY --chown=1000:100 data/getaround.csv data
 COPY --chown=1000:100 data/nyc_airbnb.csv data
