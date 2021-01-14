@@ -19,4 +19,4 @@ COPY --chown=1000:100 ./Kickstarter.ipynb .
 COPY --chown=1000:100 ./netflix_no_chill.ipynb .
 COPY --chown=1000:100 ./optional_Getaround.ipynb .
 COPY --chown=1000:100 ./livecode_Airbnb_New-York.ipynb .
-COPY --chown=1000:100 ./optional_Heetch.ipynb .
+
